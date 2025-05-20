@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>tecnology word</title>
+</head>
+<body lang="en">
+  <h1>tecnology word site.coding</h1>
+  <hr/>
+  <p><h1>about</h1></p>
+  <p><b>
+    this site is all about <i>tecnology</i> you will learn all thing about 
+    tecnology and perfect news about <b>tecnology</b></b>
+  </p><hr>
+  <p><h4>coding and tecnology is like the formol of chemistry like
+    <b>H<sub>2</sub>O</b> and etc. <br/>this is the power of tecnology
+    like the power of number <b>10<sup>2</sup></b>and other kinds.
+  </h4>
+    <strong>hope that you follow my <em>website</em> and comment hopeful sentence</strong>
+  </p>
+  <blockquote cite="http://www.ENTOP.com"><p><i><h4>did you here that:</h4></p></i> 
+  </blockquote>
+  <p><h4>knowlage<q>knowlage is like and osaen your swimming in it.</h4></q></p>
+  <p><h4><cite>HTML and CSS book</cite> is one of the most important books if you want to learn this too language.</h4>
+  </p>
+  <p><h4><dfn>the python</dfn> one of the strangest language in the word of tecnology to help people make AI, games and etc</h4>
+  </p>
+  <address>
+    
+  </address
+</html>
